@@ -25,6 +25,6 @@ print("Hello, world!")
 
 
 My name is **Tony Murandi.** I like *anime* and `have a crippling addiction to movies`
-I'd like to learn how to play the banjo
+- I'd like to learn how to play the banjo
 > my aspirations aren't much, but they're enough I'd say.
       
