@@ -1,7 +1,7 @@
 ## My learning goals
 ### This semester
 I don't really **like** schools, *but* `my friends make me hold ground`
-[https://TonyMurandi.github.io] [https://youtube.com]
+[https://github.com.TonyMurandi] [https://youtube.com]
 - I want to learn how to play the banjo
 - I want to learn how to be an AI engineer
 - I want to learn the secrets of life
